@@ -1,0 +1,8 @@
+﻿item,student_check
+Data split,Report train/validation/test or CV design and confirm locked test was not reused for tuning.
+Regularization choice,"Explain why L1, L2, or Elastic Net matches feature sparsity, stability, and correlated-feature risks."
+Uncertainty,Report CV mean +/- SD and locked-test bootstrap 95% CI.
+Clinical-facing metrics,"Report sensitivity for malignant and specificity for benign, not AUC alone."
+Calibration,Report Brier score or calibration plot before interpreting probabilities.
+External validation,"State whether a real independent external cohort exists; if not, label stress tests as proxy evidence only."
+Boundary,"Do not claim clinical deployment, causal biomarkers, or patient-care readiness from this teaching benchmark."

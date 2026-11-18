@@ -1,0 +1,4 @@
+partition,n,malignant_n,malignant_rate
+all,569,212,0.37258347978910367
+development,455,170,0.37362637362637363
+locked test,114,42,0.3684210526315789

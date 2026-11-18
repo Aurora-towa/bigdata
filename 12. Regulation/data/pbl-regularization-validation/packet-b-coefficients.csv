@@ -1,0 +1,121 @@
+﻿model,feature,coefficient_standardized_scale,abs_coefficient,is_nonzero
+Elastic Net C=1,worst texture,1.525810457673336,1.525810457673336,True
+Elastic Net C=1,mean concave points,1.2985133594876372,1.2985133594876372,True
+Elastic Net C=1,radius error,1.0804055559608892,1.0804055559608892,True
+Elastic Net C=1,worst radius,0.9488142394131877,0.9488142394131877,True
+Elastic Net C=1,worst area,0.8893266565342506,0.8893266565342506,True
+Elastic Net C=1,worst symmetry,0.7568153124613417,0.7568153124613417,True
+Elastic Net C=1,compactness error,-0.7081663199377805,0.7081663199377805,True
+Elastic Net C=1,area error,0.7013967263396215,0.7013967263396215,True
+Elastic Net C=1,worst perimeter,0.6806797077860577,0.6806797077860577,True
+Elastic Net C=1,worst smoothness,0.6771053671853171,0.6771053671853171,True
+Elastic Net C=1,mean concavity,0.5997891686989547,0.5997891686989547,True
+Elastic Net C=1,fractal dimension error,-0.5977122428363381,0.5977122428363381,True
+Elastic Net C=1,worst concavity,0.5809920456469486,0.5809920456469486,True
+Elastic Net C=1,mean radius,0.41709291088158795,0.41709291088158795,True
+Elastic Net C=1,mean area,0.40956585545617735,0.40956585545617735,True
+Elastic Net C=1,concave points error,0.3993918432041684,0.3993918432041684,True
+Elastic Net C=1,worst concave points,0.38319148790935753,0.38319148790935753,True
+Elastic Net C=1,mean perimeter,0.3544447901819667,0.3544447901819667,True
+Elastic Net C=1,mean symmetry,-0.26668686524621327,0.26668686524621327,True
+Elastic Net C=1,mean texture,0.19547342055561467,0.19547342055561467,True
+Elastic Net C=1,perimeter error,0.18953186618132206,0.18953186618132206,True
+Elastic Net C=1,mean smoothness,0.186330284969278,0.186330284969278,True
+Elastic Net C=1,mean fractal dimension,-0.1449899647072299,0.1449899647072299,True
+Elastic Net C=1,smoothness error,0.13584383700540426,0.13584383700540426,True
+Elastic Net C=1,mean compactness,-0.022938119614552773,0.022938119614552773,True
+Elastic Net C=1,texture error,0.0,0.0,False
+Elastic Net C=1,concavity error,0.0,0.0,False
+Elastic Net C=1,symmetry error,0.0,0.0,False
+Elastic Net C=1,worst compactness,0.0,0.0,False
+Elastic Net C=1,worst fractal dimension,0.0,0.0,False
+L1 C=1,mean concave points,2.5922105471957275,2.5922105471957275,True
+L1 C=1,worst radius,2.0477215043730195,2.0477215043730195,True
+L1 C=1,worst area,1.7940486466190033,1.7940486466190033,True
+L1 C=1,worst texture,1.761779487814331,1.761779487814331,True
+L1 C=1,radius error,1.1498272231671982,1.1498272231671982,True
+L1 C=1,worst symmetry,0.5913494151398005,0.5913494151398005,True
+L1 C=1,worst smoothness,0.580105188701318,0.580105188701318,True
+L1 C=1,fractal dimension error,-0.5528751966839538,0.5528751966839538,True
+L1 C=1,worst concavity,0.5006245664239065,0.5006245664239065,True
+L1 C=1,concave points error,0.19487702150328556,0.19487702150328556,True
+L1 C=1,compactness error,-0.18600891288423918,0.18600891288423918,True
+L1 C=1,mean fractal dimension,-0.12770052655965794,0.12770052655965794,True
+L1 C=1,smoothness error,0.11137510442710215,0.11137510442710215,True
+L1 C=1,mean symmetry,-0.08464723571253231,0.08464723571253231,True
+L1 C=1,mean radius,0.0,0.0,False
+L1 C=1,mean texture,0.0,0.0,False
+L1 C=1,mean perimeter,0.0,0.0,False
+L1 C=1,mean area,0.0,0.0,False
+L1 C=1,mean smoothness,0.0,0.0,False
+L1 C=1,mean compactness,0.0,0.0,False
+L1 C=1,mean concavity,0.0,0.0,False
+L1 C=1,texture error,0.0,0.0,False
+L1 C=1,perimeter error,0.0,0.0,False
+L1 C=1,area error,0.0,0.0,False
+L1 C=1,concavity error,0.0,0.0,False
+L1 C=1,symmetry error,0.0,0.0,False
+L1 C=1,worst perimeter,0.0,0.0,False
+L1 C=1,worst compactness,0.0,0.0,False
+L1 C=1,worst concave points,0.0,0.0,False
+L1 C=1,worst fractal dimension,0.0,0.0,False
+L2 C=1,worst texture,1.355328830581471,1.355328830581471,True
+L2 C=1,mean concave points,1.1042897928099447,1.1042897928099447,True
+L2 C=1,radius error,1.0259392748639222,1.0259392748639222,True
+L2 C=1,worst symmetry,0.9518611789779975,0.9518611789779975,True
+L2 C=1,worst radius,0.8134125228610397,0.8134125228610397,True
+L2 C=1,worst area,0.7947841654991068,0.7947841654991068,True
+L2 C=1,area error,0.7822456343971068,0.7822456343971068,True
+L2 C=1,worst concavity,0.7689477531740893,0.7689477531740893,True
+L2 C=1,mean concavity,0.7620927535126041,0.7620927535126041,True
+L2 C=1,compactness error,-0.7591231825621456,0.7591231825621456,True
+L2 C=1,worst perimeter,0.6617071553214581,0.6617071553214581,True
+L2 C=1,fractal dimension error,-0.6593904041292287,0.6593904041292287,True
+L2 C=1,worst smoothness,0.646525338134366,0.646525338134366,True
+L2 C=1,perimeter error,0.5481779156166329,0.5481779156166329,True
+L2 C=1,worst concave points,0.5368078004422742,0.5368078004422742,True
+L2 C=1,concave points error,0.5097277762374507,0.5097277762374507,True
+L2 C=1,mean area,0.4969266131748335,0.4969266131748335,True
+L2 C=1,mean radius,0.49417417821933746,0.49417417821933746,True
+L2 C=1,mean perimeter,0.4748560103399922,0.4748560103399922,True
+L2 C=1,mean smoothness,0.4455031452037732,0.4455031452037732,True
+L2 C=1,mean texture,0.4188479840330097,0.4188479840330097,True
+L2 C=1,mean symmetry,-0.3595696862881595,0.3595696862881595,True
+L2 C=1,mean compactness,-0.32883467209519907,0.32883467209519907,True
+L2 C=1,smoothness error,0.17430328135713866,0.17430328135713866,True
+L2 C=1,mean fractal dimension,-0.1722153936865535,0.1722153936865535,True
+L2 C=1,symmetry error,-0.15442423071579314,0.15442423071579314,True
+L2 C=1,worst compactness,-0.10907299690499753,0.10907299690499753,True
+L2 C=1,concavity error,-0.09642965924454094,0.09642965924454094,True
+L2 C=1,texture error,-0.03263871681257542,0.03263871681257542,True
+L2 C=1,worst fractal dimension,0.0018786893660935299,0.0018786893660935299,True
+Nearly unregularized,radius error,61.682719702931024,61.682719702931024,True
+Nearly unregularized,mean concave points,45.79975924930335,45.79975924930335,True
+Nearly unregularized,mean compactness,-42.72946460427775,42.72946460427775,True
+Nearly unregularized,worst texture,41.05577441260214,41.05577441260214,True
+Nearly unregularized,area error,40.24274155049477,40.24274155049477,True
+Nearly unregularized,worst concavity,38.62557128842691,38.62557128842691,True
+Nearly unregularized,worst symmetry,37.893635600502705,37.893635600502705,True
+Nearly unregularized,compactness error,-36.65774446745098,36.65774446745098,True
+Nearly unregularized,concave points error,27.22657861416265,27.22657861416265,True
+Nearly unregularized,perimeter error,25.629413073785685,25.629413073785685,True
+Nearly unregularized,worst radius,23.481174986915455,23.481174986915455,True
+Nearly unregularized,worst area,22.836319396926804,22.836319396926804,True
+Nearly unregularized,mean concavity,21.987873792299684,21.987873792299684,True
+Nearly unregularized,fractal dimension error,-21.029245319793993,21.029245319793993,True
+Nearly unregularized,worst fractal dimension,20.43759491294745,20.43759491294745,True
+Nearly unregularized,symmetry error,-20.266729128012024,20.266729128012024,True
+Nearly unregularized,texture error,-14.707731657399103,14.707731657399103,True
+Nearly unregularized,mean symmetry,-14.252295979604028,14.252295979604028,True
+Nearly unregularized,worst compactness,-13.578978675307724,13.578978675307724,True
+Nearly unregularized,mean smoothness,12.199701749263589,12.199701749263589,True
+Nearly unregularized,mean fractal dimension,12.188434655555216,12.188434655555216,True
+Nearly unregularized,worst perimeter,11.052994994227682,11.052994994227682,True
+Nearly unregularized,concavity error,-9.832336329928797,9.832336329928797,True
+Nearly unregularized,smoothness error,9.750903091080506,9.750903091080506,True
+Nearly unregularized,worst smoothness,8.092913495959692,8.092913495959692,True
+Nearly unregularized,worst concave points,-5.0762706509185165,5.0762706509185165,True
+Nearly unregularized,mean radius,4.778588874732973,4.778588874732973,True
+Nearly unregularized,mean texture,4.496358122023708,4.496358122023708,True
+Nearly unregularized,mean area,3.6764403147631897,3.6764403147631897,True
+Nearly unregularized,mean perimeter,3.089627395966594,3.089627395966594,True

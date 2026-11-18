@@ -1,0 +1,2 @@
+﻿dataset,source,samples,features,target_positive,target_negative,malignant_count,benign_count,malignant_rate,missing_values,split_plan
+Breast Cancer Wisconsin Diagnostic,"scikit-learn bundled Breast Cancer Wisconsin Diagnostic dataset; original source: UCI ML Repository, DOI 10.24432/C5DW2B, license CC BY 4.0.",569,30,malignant cancer = 1,benign = 0,212,357,0.37258347978910367,0,stratified train/validation/test = 60/20/20; CV uses train+validation only; locked test is final.

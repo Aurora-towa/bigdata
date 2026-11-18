@@ -1,0 +1,46 @@
+{
+  "topic": "第 12 讲：过拟合的对抗：正则化与验证策略",
+  "slug": "regularization-validation",
+  "mode": "regularization-validation",
+  "dataset": {
+    "name": "Breast Cancer Wisconsin Diagnostic",
+    "source": "scikit-learn bundled Breast Cancer Wisconsin Diagnostic dataset; original source: UCI ML Repository, DOI 10.24432/C5DW2B, license CC BY 4.0.",
+    "task": "binary classification",
+    "target": "malignant cancer = 1; benign = 0"
+  },
+  "outputs": {
+    "student_worksheet": "pbl-regularization-validation-student-worksheet.docx",
+    "teaching_plan": "pbl-regularization-validation-teaching-plan-flipped-classroom.docx",
+    "evidence_pack": "pbl-regularization-validation-evidence-pack.docx",
+    "design_rationale": "pbl-regularization-validation-design-rationale.docx",
+    "notebook": "notebook/pbl-regularization-validation-optional-lab.ipynb"
+  },
+  "assets": [
+    "assets/pbl-regularization-validation/analysis-design.json",
+    "assets/pbl-regularization-validation/dataset-summary.csv",
+    "assets/pbl-regularization-validation/main-result-regularization-validation.png",
+    "assets/pbl-regularization-validation/packet-a-dataset-summary.csv",
+    "assets/pbl-regularization-validation/packet-b-coefficients.csv",
+    "assets/pbl-regularization-validation/packet-b-coefficients.png",
+    "assets/pbl-regularization-validation/packet-b-model-comparison.csv",
+    "assets/pbl-regularization-validation/packet-b-model-comparison.png",
+    "assets/pbl-regularization-validation/packet-c-cv-regularization-path.csv",
+    "assets/pbl-regularization-validation/packet-c-cv-regularization-path.png",
+    "assets/pbl-regularization-validation/packet-c-nested-cv-folds.csv",
+    "assets/pbl-regularization-validation/packet-c-nested-cv-summary.csv",
+    "assets/pbl-regularization-validation/packet-c-nested-cv.png",
+    "assets/pbl-regularization-validation/packet-d-bootstrap-calibration.png",
+    "assets/pbl-regularization-validation/packet-d-locked-test-bootstrap-ci.csv",
+    "assets/pbl-regularization-validation/packet-d-reporting-checklist.csv",
+    "assets/pbl-regularization-validation/packet-d-stress-validation-proxy.csv",
+    "assets/pbl-regularization-validation/packet-d-stress-validation.png"
+  ],
+  "boundary": "教学用途：本材料只用于机器学习课程讨论，不构成临床诊断、治疗、部署或患者护理建议。",
+  "core_question": "How should regularization and validation strategy make a biomedical model more robust and trustworthy?",
+  "customized": true,
+  "approved_choices": {
+    "standalone_case": true,
+    "packet_d_bootstrap_ci": true,
+    "homework": "one-page validation protocol"
+  }
+}

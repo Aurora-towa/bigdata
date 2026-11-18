@@ -1,0 +1,216 @@
+{
+  "random_state": 2026,
+  "dataset": {
+    "name": "Wisconsin Diagnostic Breast Cancer",
+    "n_total": 569,
+    "n_features": 30,
+    "n_development": 455,
+    "n_test": 114,
+    "test_malignant": 42,
+    "positive_class": "malignant"
+  },
+  "complexity": [
+    {
+      "max_depth": "1",
+      "train_auc_mean": 0.9161197110423117,
+      "train_auc_sd": 0.008399249506783817,
+      "cv_auc_mean": 0.8857172342621259,
+      "cv_auc_sd": 0.024570886896195573,
+      "generalization_gap": 0.030402476780185816
+    },
+    {
+      "max_depth": "2",
+      "train_auc_mean": 0.9741860165118681,
+      "train_auc_sd": 0.006618544788629686,
+      "cv_auc_mean": 0.945892672858617,
+      "cv_auc_sd": 0.02369107636074168,
+      "generalization_gap": 0.02829334365325109
+    },
+    {
+      "max_depth": "3",
+      "train_auc_mean": 0.9891608617131062,
+      "train_auc_sd": 0.004790848607097331,
+      "cv_auc_mean": 0.9396284829721361,
+      "cv_auc_sd": 0.03353774702391932,
+      "generalization_gap": 0.04953237874097016
+    },
+    {
+      "max_depth": "4",
+      "train_auc_mean": 0.9957256191950465,
+      "train_auc_sd": 0.0025289283498454184,
+      "cv_auc_mean": 0.9240350877192982,
+      "cv_auc_sd": 0.03413244439393806,
+      "generalization_gap": 0.07169053147574833
+    },
+    {
+      "max_depth": "5",
+      "train_auc_mean": 0.9991589267285861,
+      "train_auc_sd": 0.0013376248703427787,
+      "cv_auc_mean": 0.9290505675954592,
+      "cv_auc_sd": 0.02272823686085055,
+      "generalization_gap": 0.07010835913312685
+    },
+    {
+      "max_depth": "6",
+      "train_auc_mean": 0.9999600103199174,
+      "train_auc_sd": 7.21306412743332e-05,
+      "cv_auc_mean": 0.9247162022703818,
+      "cv_auc_sd": 0.021543986299586326,
+      "generalization_gap": 0.07524380804953568
+    },
+    {
+      "max_depth": "7",
+      "train_auc_mean": 1.0,
+      "train_auc_sd": 0.0,
+      "cv_auc_mean": 0.9263054695562435,
+      "cv_auc_sd": 0.022117822636042648,
+      "generalization_gap": 0.07369453044375651
+    },
+    {
+      "max_depth": "8",
+      "train_auc_mean": 1.0,
+      "train_auc_sd": 0.0,
+      "cv_auc_mean": 0.9263054695562435,
+      "cv_auc_sd": 0.022117822636042648,
+      "generalization_gap": 0.07369453044375651
+    },
+    {
+      "max_depth": "9",
+      "train_auc_mean": 1.0,
+      "train_auc_sd": 0.0,
+      "cv_auc_mean": 0.9263054695562435,
+      "cv_auc_sd": 0.022117822636042648,
+      "generalization_gap": 0.07369453044375651
+    },
+    {
+      "max_depth": "10",
+      "train_auc_mean": 1.0,
+      "train_auc_sd": 0.0,
+      "cv_auc_mean": 0.9263054695562435,
+      "cv_auc_sd": 0.022117822636042648,
+      "generalization_gap": 0.07369453044375651
+    },
+    {
+      "max_depth": "11",
+      "train_auc_mean": 1.0,
+      "train_auc_sd": 0.0,
+      "cv_auc_mean": 0.9263054695562435,
+      "cv_auc_sd": 0.022117822636042648,
+      "generalization_gap": 0.07369453044375651
+    },
+    {
+      "max_depth": "12",
+      "train_auc_mean": 1.0,
+      "train_auc_sd": 0.0,
+      "cv_auc_mean": 0.9263054695562435,
+      "cv_auc_sd": 0.022117822636042648,
+      "generalization_gap": 0.07369453044375651
+    },
+    {
+      "max_depth": "unlimited",
+      "train_auc_mean": 1.0,
+      "train_auc_sd": 0.0,
+      "cv_auc_mean": 0.9263054695562435,
+      "cv_auc_sd": 0.022117822636042648,
+      "generalization_gap": 0.07369453044375651
+    }
+  ],
+  "learning_curve": [
+    {
+      "train_n": 72,
+      "train_auc_mean": 1.0,
+      "train_auc_sd": 0.0,
+      "cv_auc_mean": 0.9031475748194013,
+      "cv_auc_sd": 0.03493591196512219,
+      "generalization_gap": 0.09685242518059867
+    },
+    {
+      "train_n": 127,
+      "train_auc_mean": 1.0,
+      "train_auc_sd": 0.0,
+      "cv_auc_mean": 0.8979360165118679,
+      "cv_auc_sd": 0.032188073132464155,
+      "generalization_gap": 0.10206398348813206
+    },
+    {
+      "train_n": 182,
+      "train_auc_mean": 1.0,
+      "train_auc_sd": 0.0,
+      "cv_auc_mean": 0.9067079463364294,
+      "cv_auc_sd": 0.01790680392257225,
+      "generalization_gap": 0.09329205366357063
+    },
+    {
+      "train_n": 236,
+      "train_auc_mean": 1.0,
+      "train_auc_sd": 0.0,
+      "cv_auc_mean": 0.9119711042311662,
+      "cv_auc_sd": 0.011723160489873626,
+      "generalization_gap": 0.08802889576883377
+    },
+    {
+      "train_n": 291,
+      "train_auc_mean": 1.0,
+      "train_auc_sd": 0.0,
+      "cv_auc_mean": 0.8984520123839008,
+      "cv_auc_sd": 0.022599941793053437,
+      "generalization_gap": 0.10154798761609918
+    },
+    {
+      "train_n": 364,
+      "train_auc_mean": 1.0,
+      "train_auc_sd": 0.0,
+      "cv_auc_mean": 0.9178534571723427,
+      "cv_auc_sd": 0.010946837527811424,
+      "generalization_gap": 0.08214654282765732
+    }
+  ],
+  "final_audit": [
+    {
+      "model": "Unpruned tree",
+      "dev_train_auc_mean": 1.0,
+      "dev_cv_auc_mean": 0.9263054695562435,
+      "dev_cv_auc_sd": 0.022117822636042648,
+      "test_roc_auc": 0.9533730158730159,
+      "test_accuracy": 0.9473684210526315,
+      "test_balanced_accuracy": 0.9533730158730158,
+      "test_sensitivity": 0.9761904761904762,
+      "test_specificity": 0.9305555555555556,
+      "tn": 67,
+      "fp": 5,
+      "fn": 1,
+      "tp": 41
+    },
+    {
+      "model": "Shallow tree (depth=2)",
+      "dev_train_auc_mean": 0.9741860165118681,
+      "dev_cv_auc_mean": 0.945892672858617,
+      "dev_cv_auc_sd": 0.02369107636074168,
+      "test_roc_auc": 0.9662698412698412,
+      "test_accuracy": 0.9298245614035088,
+      "test_balanced_accuracy": 0.939484126984127,
+      "test_sensitivity": 0.9761904761904762,
+      "test_specificity": 0.9027777777777778,
+      "tn": 65,
+      "fp": 7,
+      "fn": 1,
+      "tp": 41
+    },
+    {
+      "model": "L2 logistic regression",
+      "dev_train_auc_mean": 0.9975709494324044,
+      "dev_cv_auc_mean": 0.9922394220846233,
+      "dev_cv_auc_sd": 0.007645450084183864,
+      "test_roc_auc": 0.9986772486772486,
+      "test_accuracy": 0.9736842105263158,
+      "test_balanced_accuracy": 0.9692460317460317,
+      "test_sensitivity": 0.9523809523809523,
+      "test_specificity": 0.9861111111111112,
+      "tn": 71,
+      "fp": 1,
+      "fn": 2,
+      "tp": 40
+    }
+  ],
+  "sklearn_version": "1.8.0"
+}

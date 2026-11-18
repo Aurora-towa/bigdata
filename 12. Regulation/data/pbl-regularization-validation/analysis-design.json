@@ -1,0 +1,25 @@
+{
+  "topic": "第 12 讲：过拟合的对抗：正则化与验证策略",
+  "slug": "regularization-validation",
+  "mode": "regularization-validation",
+  "approved_choices": {
+    "case_relation": "standalone independent case",
+    "packet_d": "include locked test bootstrap 95% confidence intervals",
+    "homework": "one-page validation protocol"
+  },
+  "splits": {
+    "train": 341,
+    "validation": 114,
+    "locked_test": 114
+  },
+  "metrics": [
+    "AUC",
+    "balanced accuracy",
+    "sensitivity",
+    "specificity",
+    "Brier",
+    "log loss",
+    "bootstrap 95% CI"
+  ],
+  "boundary": "教学用途：本材料只用于机器学习课程讨论，不构成临床诊断、治疗、部署或患者护理建议。"
+}
